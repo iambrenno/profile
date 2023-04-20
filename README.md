@@ -6,7 +6,7 @@
 
 ### _Bio_
 - **São Paulo, SP** :brazil:
-- Estudando para me tornar um Desenvolvedor de Sistemas :running:
+
 
  
 ![Brenno Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=iambrenno&show_icons=true&theme=dark)
