@@ -9,8 +9,8 @@
 - Estudando para me tornar um Desenvolvedor de Sistemas :running:
 
  
-![Brenno Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=brennomaia&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brennomaia&layout=compact)](https://github.com/brennomaia/github-readme-stats)
+![Brenno Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=iambrenno&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambrenno&layout=compact)](https://github.com/profile/github-readme-stats)
 
 
 ### :globe_with_meridians: _Networking_
