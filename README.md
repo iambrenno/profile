@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/brenno_____________/" target="_blank">
 <img align="center" alt="brenno-maia" height="60" width="55" src="https://cdn.icon-icons.com/icons2/100/PNG/256/instagram_socialnetwork_17505.png">
 </a>
-<a href="brennomaia@yahoo.com.br">
+<a href="brennomaia10@gmail.com">
 <img align="center" alt="brenno-maia" height="60" width="55" src="https://cdn.icon-icons.com/icons2/100/PNG/256/email_socialnetwork_17535.png">
 </a>
 
